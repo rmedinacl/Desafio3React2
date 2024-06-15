@@ -1,0 +1,23 @@
+/* Fondo gris oscuro personalizado para el contenedor */
+.custom-bg {
+  background-color: rgb(59, 58, 58); /* Gris oscuro */
+}
+
+/* Asegurarse de que los enlaces no activos tengan el color deseado */
+.nav-link {
+  color: white; /* Color de los enlaces no activos */
+}
+
+.nav-link:hover {
+  color: lightgray; /* Color al pasar el cursor por encima */
+}
+
+.active {
+  color: lightgreen;
+}
+
+.text-select {
+  color: white;
+  font-weight: 100;
+  text-decoration: none; /* Color de los enlaces no activos */
+}
